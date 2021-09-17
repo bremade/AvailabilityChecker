@@ -64,11 +64,11 @@ After installing and openening the programm the microphone status will be retrie
 <br/>
 By using the controlls in the tray the status can be toggled manually.
 <br/>
-![Controls of trayicon](docs/tray.png)
+![Controls of trayicon](docs/tray.PNG)
 
 <mark style="background-color: red">Make sure that the mic in use icon is pinned in the taskbar</mark>
 <br/>
-![Pinned mic use icon](docs/mic.png)
+![Pinned mic use icon](docs/mic.PNG)
 
 <!-- LICENSE -->
 ## License
