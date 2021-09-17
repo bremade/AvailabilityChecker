@@ -3,7 +3,7 @@
 #include <ESP8266WiFi.h>
 
 #define LED_PIN 13
-#define MSG_BUFFER_SIZE	(50)
+#define MSG_BUFFER_SIZE (50)
 
 const char* ssid = "WLAN NAME";
 const char* password = "WLAN PASSWORD";
