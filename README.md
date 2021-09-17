@@ -1,9 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<center>
-    <img src="docs/sign.png" alt="drawing" style="width:400px;"/>
-</center>
+  <img align="center" src="docs/sign.png" alt="drawing" style="width:400px;"/>
   <h3 align="center">Availability Checker</h3>
 
   <p align="center">
