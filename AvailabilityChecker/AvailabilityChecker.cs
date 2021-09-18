@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
 using System.IO;
-using System.Net;
 using System.Threading;
 using System.Text;
 using System.Runtime.InteropServices;
@@ -47,7 +46,7 @@ namespace AvailabilityChecker
             notifyIcon = new NotifyIcon
             {
                 Icon = Properties.Resources.trayicon,
-                Text = "Monitor",
+                Text = "Availability Checker",
                 Visible = true
             };
 

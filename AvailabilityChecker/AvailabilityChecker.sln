@@ -6,20 +6,21 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvailabilityChecker", "AvailabilityChecker.csproj", "{04BEF0CE-01CD-4D28-8AE6-7971561E44CA}"
 EndProject
 Global
-    GlobalSection(SolutionConfigurationPlatforms) = preSolution
-        Debug|Any CPU = Debug|Any CPU
-        Release|Any CPU = Release|Any CPU
-    EndGlobalSection
-    GlobalSection(ProjectConfigurationPlatforms) = postSolution
-        {04BEF0CE-01CD-4D28-8AE6-7971561E44CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-        {04BEF0CE-01CD-4D28-8AE6-7971561E44CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-        {04BEF0CE-01CD-4D28-8AE6-7971561E44CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-        {04BEF0CE-01CD-4D28-8AE6-7971561E44CA}.Release|Any CPU.Build.0 = Release|Any CPU
-    EndGlobalSection
-    GlobalSection(SolutionProperties) = preSolution
-        HideSolutionNode = FALSE
-    EndGlobalSection
-    GlobalSection(ExtensibilityGlobals) = postSolution
-        SolutionGuid = {8CEBAF7F-9747-4BAA-BDEE-87F1A78F8994}
-    EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BEF0CE-01CD-4D28-8AE6-7971561E44CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BEF0CE-01CD-4D28-8AE6-7971561E44CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BEF0CE-01CD-4D28-8AE6-7971561E44CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BEF0CE-01CD-4D28-8AE6-7971561E44CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		        SolutionGuid = {8CEBAF7F-9747-4BAA-BDEE-87F1A78F8994}
+		SolutionGuid = {8905C1AF-E77F-4375-9904-5D5A81B64CFA}
+	EndGlobalSection
 EndGlobal
